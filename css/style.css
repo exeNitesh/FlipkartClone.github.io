@@ -45,11 +45,11 @@ header ul li a{
 }
 header{
     display: inline;
-    background-color: #2874f0;
+    background-color: #17de04;
     width: 10vh;
 }
 head{
-    background-color: #2874f0;
+    background-color: #17de04;
 }
 header nav ul{
     display: flex;
